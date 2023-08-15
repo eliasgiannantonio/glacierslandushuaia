@@ -1,0 +1,11 @@
+@font-face {
+   font-family: 'FontsFree-Net-roxborough-cf-light';
+   font-display: swap;
+   src: url('FontsFree-Net-roxborough-cf-light/font.ttf');
+}
+
+@font-face {
+   font-family: 'FontsFree-Net-espander-italic';
+   font-display: swap;
+   src: url('FontsFree-Net-espander-italic/font.ttf');
+}
